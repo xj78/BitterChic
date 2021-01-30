@@ -846,6 +846,3 @@ Footer
   letter-spacing: var(--spacing);
   color: var(--clr-white);
 }
-.recaptcha {
-  background: var(--clr-primary-5);
-}
