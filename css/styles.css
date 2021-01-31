@@ -295,7 +295,7 @@ Hero
 }
 .hero-banner h2 {
   text-transform: uppercase;
-  margin-top: 4.95rem;
+  margin-top: 2.5rem;
 }
 .hero-banner p {
   max-width: 35rem;
@@ -582,9 +582,9 @@ Contact
 .contact {
   background: var(--clr-primary-5);
 }
-/* .contact-center {
-  width: 100%;
-} */
+.contact-center {
+  width: 90%;
+}
 .contact-titles {
   color: var(--clr-grey-1);
   margin-bottom: 3.5rem;
