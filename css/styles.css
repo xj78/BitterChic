@@ -356,7 +356,7 @@ About
   color: var(--clr-primary-5);
 }
 .section-center {
-  width: 50vw;
+  width: 80vw;
   margin: 0 auto;
   max-width: 1170px;
 }
